@@ -12,6 +12,7 @@
   --background-text-color: #ff0070;
   --text-color: #f1b2ce;
   --alternate-text-color: #000028;
+  --hover-shadow-color: rgb(255 0 112 / 0.4);
 }
 
 :root.theme-dark {
@@ -21,4 +22,5 @@
   --background-text-color: #ff0070;
   --text-color: #f1b2ce;
   --alternate-text-color: #000028;
+  --hover-shadow-color: rgb(255 0 112 / 0.4);
 }

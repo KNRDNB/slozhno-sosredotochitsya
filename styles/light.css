@@ -12,6 +12,7 @@
   --background-text-color: #ff8dcb;
   --text-color: #353430;
   --alternate-text-color: #353430;
+  --hover-shadow-color: rgb(50 49 45 / 0.4);
 }
 
 .theme_light .header__decoration::before {
@@ -35,7 +36,7 @@
   }
 
   .page.theme_auto {
-    background-image: url(../images/cover-image-light.png);
+    background-image: url(./images/cover-image-light.png);
   }
 
   .theme_auto .header__decoration::before {
