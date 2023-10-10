@@ -21,6 +21,7 @@
   grid-template-columns: repeat(auto-fit, 355px);
   grid-template-rows: 0 9.8vh 24.4vh 36.8vh 17.6vh 8.4vh;
   padding: 10px;
+  height: 100vh;
 }
 
 .header::before {
@@ -202,6 +203,7 @@
   grid-template-columns: repeat(auto-fit, 355px);
   grid-template-rows: 42vh 15vh 40vh;
   padding: 10px;
+  height: 100vh;
 }
 
 .footer::before {
